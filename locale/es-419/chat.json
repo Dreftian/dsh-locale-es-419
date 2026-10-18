@@ -104,7 +104,7 @@
   "message.stepProcess.read": "Leyendo archivos",
   "message.stepProcess.readImage": "Leyendo imágenes",
   "message.stepProcess.search": "Buscando código",
-  "message.stepProcess.sharedPrefix": "",
+  "message.stepProcess.sharedPrefix": "Proceso",
   "message.stepProcess.subagents": "Coordinando subagentes",
   "message.stepProcess.thinking": "Analizando la solicitud",
   "message.stepProcess.tools": "Llamando a herramientas",
@@ -184,5 +184,11 @@
   "stats.dialog.toolTime": "Tiempo de herramientas",
   "stats.dialog.ttft": "Tiempo promedio hasta el primer token (TTFT)",
   "stats.dialog.usageTitle": "Uso de tokens",
-  "view.chat": "Chat"
+  "view.chat": "Chat",
+  "settings.collapse.title": "Cuándo colapsar detalles del trabajo",
+  "settings.collapse.description": "Elige cuándo colapsar automáticamente los detalles del trabajo",
+  "settings.collapse.completion": "Al completar",
+  "settings.collapse.nextInput": "Al siguiente mensaje",
+  "message.taskStopped": "Tarea detenida",
+  "message.failure.interrupted": "Interrumpido por el usuario"
 }

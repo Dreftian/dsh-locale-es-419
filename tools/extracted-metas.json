@@ -1,0 +1,1034 @@
+{
+  "api-account-controller": {
+    "en": "api-account-controller",
+    "zh": "账号操作接口"
+  },
+  "api-gateway": {
+    "en": "api-gateway",
+    "zh": "远程调用网关"
+  },
+  "api-job-controller": {
+    "en": "api-job-controller",
+    "zh": "后台任务观察接口"
+  },
+  "api-remotes": {
+    "en": "api-remotes",
+    "zh": "客户端 API 汇总"
+  },
+  "api-session-controller": {
+    "en": "api-session-controller",
+    "zh": "会话控制接口"
+  },
+  "api-settings-controller": {
+    "en": "api-settings-controller",
+    "zh": "设置读写接口"
+  },
+  "api-terminal-controller": {
+    "en": "api-terminal-controller",
+    "zh": "终端控制接口"
+  },
+  "api-workspace-controller": {
+    "en": "api-workspace-controller",
+    "zh": "工作区控制接口"
+  },
+  "api-workspace-files": {
+    "en": "api-workspace-files",
+    "zh": "工作区文件接口"
+  },
+  "attachment-local": {
+    "en": "attachment-local",
+    "zh": "本地附件存储"
+  },
+  "config-editor": {
+    "en": "config-editor",
+    "zh": "插件配置编辑"
+  },
+  "hmr": {
+    "en": "hmr",
+    "zh": "Web 客户端热更新"
+  },
+  "plugin-manager": {
+    "en": "plugin-manager",
+    "zh": "插件管理服务"
+  },
+  "plugin-manager/tools": {
+    "en": "plugin-manager/tools",
+    "zh": "插件管理工具"
+  },
+  "web-app": {
+    "en": "web-app",
+    "zh": "Web 应用运行支持"
+  },
+  "web-app/startup": {
+    "en": "web-app/startup",
+    "zh": "Web 启动配置"
+  },
+  "connection": {
+    "en": "connection",
+    "zh": "客户端连接"
+  },
+  "file-upload": {
+    "en": "file-upload",
+    "zh": "文件上传"
+  },
+  "locale": {
+    "en": "locale",
+    "zh": "界面语言"
+  },
+  "modules": {
+    "en": "modules",
+    "zh": "客户端模块加载"
+  },
+  "product-analytics": {
+    "en": "product-analytics",
+    "zh": "桌面端使用统计"
+  },
+  "resources": {
+    "en": "resources",
+    "zh": "客户端资源服务"
+  },
+  "shortcuts": {
+    "en": "shortcuts",
+    "zh": "快捷键服务"
+  },
+  "ui-agent-preset": {
+    "en": "ui-agent-preset",
+    "zh": "Agent 预设界面"
+  },
+  "ui-approval": {
+    "en": "ui-approval",
+    "zh": "操作审批界面"
+  },
+  "ui-attachment": {
+    "en": "ui-attachment",
+    "zh": "附件展示"
+  },
+  "ui-brand-official": {
+    "en": "ui-brand-official",
+    "zh": "DeepSeek 品牌展示"
+  },
+  "ui-chat": {
+    "en": "ui-chat",
+    "zh": "聊天内容展示"
+  },
+  "ui-commands": {
+    "en": "ui-commands",
+    "zh": "命令选择界面"
+  },
+  "ui-conversation": {
+    "en": "ui-conversation",
+    "zh": "会话界面框架"
+  },
+  "ui-deliverables": {
+    "en": "ui-deliverables",
+    "zh": "文件变更与交付展示"
+  },
+  "ui-directory-picker-browse": {
+    "en": "ui-directory-picker-browse",
+    "zh": "应用内目录选择界面"
+  },
+  "ui-directory-picker-native": {
+    "en": "ui-directory-picker-native",
+    "zh": "系统目录选择界面"
+  },
+  "ui-goal": {
+    "en": "ui-goal",
+    "zh": "会话目标栏"
+  },
+  "ui-input-trigger": {
+    "en": "ui-input-trigger",
+    "zh": "输入联想服务"
+  },
+  "ui-jobs": {
+    "en": "ui-jobs",
+    "zh": "后台任务界面"
+  },
+  "ui-layout": {
+    "en": "ui-layout",
+    "zh": "应用布局"
+  },
+  "ui-message-feedback": {
+    "en": "ui-message-feedback",
+    "zh": "消息反馈界面"
+  },
+  "ui-model-selection": {
+    "en": "ui-model-selection",
+    "zh": "模型选择界面"
+  },
+  "ui-open-in-app": {
+    "en": "ui-open-in-app",
+    "zh": "外部应用打开界面"
+  },
+  "ui-permission-presets": {
+    "en": "ui-permission-presets",
+    "zh": "权限模式界面"
+  },
+  "ui-plan": {
+    "en": "ui-plan",
+    "zh": "计划审阅界面"
+  },
+  "ui-plugin-manager": {
+    "en": "ui-plugin-manager",
+    "zh": "插件管理界面"
+  },
+  "ui-reference": {
+    "en": "ui-reference",
+    "zh": "文件与会话引用界面"
+  },
+  "ui-renderer": {
+    "en": "ui-renderer",
+    "zh": "界面渲染"
+  },
+  "Task interface": {
+    "en": "Task interface",
+    "zh": "任务界面"
+  },
+  "The Automation tasks page in the sidebar, plus task cards and reminder marks in sessions.": {
+    "en": "The Automation tasks page in the sidebar, plus task cards and reminder marks in sessions.",
+    "zh": "侧栏的自动化任务页面，以及会话里的任务卡片和提醒标记。"
+  },
+  "ui-secret-mask": {
+    "en": "ui-secret-mask",
+    "zh": "凭据遮挡"
+  },
+  "Masks recognized keys, tokens, and passwords in sent messages.": {
+    "en": "Masks recognized keys, tokens, and passwords in sent messages.",
+    "zh": "遮挡已发送消息中可识别的密钥、令牌与密码。"
+  },
+  "ui-session": {
+    "en": "ui-session",
+    "zh": "会话界面连接"
+  },
+  "ui-settings": {
+    "en": "ui-settings",
+    "zh": "设置界面框架"
+  },
+  "ui-settings-account": {
+    "en": "ui-settings-account",
+    "zh": "账号设置界面"
+  },
+  "ui-settings-agent-loop": {
+    "en": "ui-settings-agent-loop",
+    "zh": "智能体运行设置"
+  },
+  "ui-settings-general": {
+    "en": "ui-settings-general",
+    "zh": "通用设置与欢迎提示"
+  },
+  "ui-settings-models": {
+    "en": "ui-settings-models",
+    "zh": "模型设置界面"
+  },
+  "ui-settings-plugin-inventory": {
+    "en": "ui-settings-plugin-inventory",
+    "zh": "内置插件列表界面"
+  },
+  "ui-settings-plugins": {
+    "en": "ui-settings-plugins",
+    "zh": "内置插件设置入口"
+  },
+  "ui-settings-session-log": {
+    "en": "ui-settings-session-log",
+    "zh": "会话日志上传设置"
+  },
+  "ui-settings-shell": {
+    "en": "ui-settings-shell",
+    "zh": "命令执行设置"
+  },
+  "ui-settings-subagent": {
+    "en": "ui-settings-subagent",
+    "zh": "子智能体设置"
+  },
+  "ui-settings-web-search": {
+    "en": "ui-settings-web-search",
+    "zh": "网页搜索设置"
+  },
+  "ui-shortcuts": {
+    "en": "ui-shortcuts",
+    "zh": "快捷键设置界面"
+  },
+  "ui-sidebar": {
+    "en": "ui-sidebar",
+    "zh": "会话侧栏"
+  },
+  "ui-sidebar-browser": {
+    "en": "ui-sidebar-browser",
+    "zh": "浏览器面板"
+  },
+  "ui-sidebar-documentpreview": {
+    "en": "ui-sidebar-documentpreview",
+    "zh": "文档预览面板"
+  },
+  "ui-sidebar-files": {
+    "en": "ui-sidebar-files",
+    "zh": "文件浏览面板"
+  },
+  "ui-sidebar-right": {
+    "en": "ui-sidebar-right",
+    "zh": "右侧面板"
+  },
+  "ui-sidebar-terminal": {
+    "en": "ui-sidebar-terminal",
+    "zh": "终端面板"
+  },
+  "ui-skill": {
+    "en": "ui-skill",
+    "zh": "技能引用与展示"
+  },
+  "ui-subagent": {
+    "en": "ui-subagent",
+    "zh": "子智能体会话界面"
+  },
+  "ui-theme": {
+    "en": "ui-theme",
+    "zh": "界面主题"
+  },
+  "ui-tool": {
+    "en": "ui-tool",
+    "zh": "工具调用展示"
+  },
+  "ui-trajectory": {
+    "en": "ui-trajectory",
+    "zh": "运行轨迹"
+  },
+  "ui-user-questions": {
+    "en": "ui-user-questions",
+    "zh": "用户问答界面"
+  },
+  "ui-workflow-run": {
+    "en": "ui-workflow-run",
+    "zh": "工作流运行展示"
+  },
+  "ui-workspace": {
+    "en": "ui-workspace",
+    "zh": "工作区选择界面"
+  },
+  "command-compact": {
+    "en": "command-compact",
+    "zh": "上下文压缩命令"
+  },
+  "compaction-basic": {
+    "en": "compaction-basic",
+    "zh": "上下文压缩"
+  },
+  "compaction-image-offload": {
+    "en": "compaction-image-offload",
+    "zh": "历史图片卸载"
+  },
+  "compaction-tool-result-pruner": {
+    "en": "compaction-tool-result-pruner",
+    "zh": "工具结果精简"
+  },
+  "agent-instructions": {
+    "en": "agent-instructions",
+    "zh": "工作区指令加载"
+  },
+  "file-reference-local": {
+    "en": "file-reference-local",
+    "zh": "本地文件引用"
+  },
+  "session-reference": {
+    "en": "session-reference",
+    "zh": "跨会话引用"
+  },
+  "Time awareness": {
+    "en": "Time awareness",
+    "zh": "时间感知"
+  },
+  "Tells the model the current time, the browser's time zone, and the time since the previous message at each step.": {
+    "en": "Tells the model the current time, the browser's time zone, and the time since the previous message at each step.",
+    "zh": "每一步把当前时间、浏览器时区和距上一条消息的时长告诉模型。"
+  },
+  "agent": {
+    "en": "agent",
+    "zh": "智能体管理"
+  },
+  "agent-default-model": {
+    "en": "agent-default-model",
+    "zh": "默认模型"
+  },
+  "agent-loop": {
+    "en": "agent-loop",
+    "zh": "智能体运行循环"
+  },
+  "agent-tool-presentation": {
+    "en": "agent-tool-presentation",
+    "zh": "工具调用方式"
+  },
+  "session": {
+    "en": "session",
+    "zh": "会话记录"
+  },
+  "system-prompt": {
+    "en": "system-prompt",
+    "zh": "系统提示词组装"
+  },
+  "tools": {
+    "en": "tools",
+    "zh": "工具注册与执行"
+  },
+  "authorization": {
+    "en": "authorization",
+    "zh": "授权流程服务"
+  },
+  "credentials-local": {
+    "en": "credentials-local",
+    "zh": "本地凭据存储"
+  },
+  "deepseek-account-platform": {
+    "en": "deepseek-account-platform",
+    "zh": "DeepSeek 账号登录"
+  },
+  "tool-present": {
+    "en": "tool-present",
+    "zh": "文件交付工具"
+  },
+  "workspace-changes": {
+    "en": "workspace-changes",
+    "zh": "工作区变更记录"
+  },
+  "office-to-pdf": {
+    "en": "office-to-pdf",
+    "zh": "Office 转 PDF"
+  },
+  "Team Collaboration": {
+    "en": "Team Collaboration",
+    "zh": "团队协作"
+  },
+  "Manage team members, member messages, and shared tasks.": {
+    "en": "Manage team members, member messages, and shared tasks.",
+    "zh": "管理团队成员、成员消息和共享任务。"
+  },
+  "Agent Teams": {
+    "en": "Agent Teams",
+    "zh": "智能体团队"
+  },
+  "Enable team collaboration, team tools, the member roster, and the shared task board.": {
+    "en": "Enable team collaboration, team tools, the member roster, and the shared task board.",
+    "zh": "启用团队协作、团队工具、成员列表和共享任务看板。"
+  },
+  "Speech transcription API": {
+    "en": "Speech transcription API",
+    "zh": "语音转写接口"
+  },
+  "Provide speech transcription for browser clients.": {
+    "en": "Provide speech transcription for browser clients.",
+    "zh": "为浏览器提供录音转写接口。"
+  },
+  "Auto Authorization Review": {
+    "en": "Auto Authorization Review",
+    "zh": "自动授权审查"
+  },
+  "Add an Auto review permission mode that uses the model to assess authorization before each tool call.": {
+    "en": "Add an Auto review permission mode that uses the model to assess authorization before each tool call.",
+    "zh": "提供自动审查权限模式，由模型在每次工具调用前判断是否授权。"
+  },
+  "DSH badge skill": {
+    "en": "DSH badge skill",
+    "zh": "DSH 徽章技能"
+  },
+  "Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs.": {
+    "en": "Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs.",
+    "zh": "让 Agent 为文档、PR 等产出添加「powered by dsh」徽章。"
+  },
+  "Browser Use (Chrome DevTools)": {
+    "en": "Browser Use (Chrome DevTools)",
+    "zh": "浏览器操作（Chrome DevTools）"
+  },
+  "Let the model inspect and operate web pages through Chrome DevTools MCP in a launched Chrome.": {
+    "en": "Let the model inspect and operate web pages through Chrome DevTools MCP in a launched Chrome.",
+    "zh": "让模型通过 Chrome DevTools MCP 在新启动的 Chrome 中检查和操作网页。"
+  },
+  "Browser Use (Playwright)": {
+    "en": "Browser Use (Playwright)",
+    "zh": "浏览器操作（Playwright）"
+  },
+  "Let the model browse and operate web pages through Playwright MCP in a launched Chromium.": {
+    "en": "Let the model browse and operate web pages through Playwright MCP in a launched Chromium.",
+    "zh": "让模型通过 Playwright MCP 在新启动的 Chromium 中浏览和操作网页。"
+  },
+  "Team Panel": {
+    "en": "Team Panel",
+    "zh": "团队面板"
+  },
+  "View team members and shared tasks, and navigate to member conversations.": {
+    "en": "View team members and shared tasks, and navigate to member conversations.",
+    "zh": "查看团队成员和共享任务，并切换到成员会话。"
+  },
+  "Machine translation of reasoning": {
+    "en": "Machine translation of reasoning",
+    "zh": "思考过程机器翻译"
+  },
+  "Display expanded reasoning in another language using machine translation.": {
+    "en": "Display expanded reasoning in another language using machine translation.",
+    "zh": "将展开的思考内容机器翻译为其他语言。"
+  },
+  "Voice recording": {
+    "en": "Voice recording",
+    "zh": "录音输入"
+  },
+  "Record speech and insert editable text into the conversation draft.": {
+    "en": "Record speech and insert editable text into the conversation draft.",
+    "zh": "录制语音，将识别结果填入会话草稿，支持编辑后发送。"
+  },
+  "Computer Use (Cua Driver MCP)": {
+    "en": "Computer Use (Cua Driver MCP)",
+    "zh": "电脑操作（Cua Driver MCP）"
+  },
+  "Let the model operate the desktop through a separately installed cua-driver executable.": {
+    "en": "Let the model operate the desktop through a separately installed cua-driver executable.",
+    "zh": "让模型通过单独安装的 cua-driver 可执行文件操作桌面。"
+  },
+  "Computer Use (Cua Driver)": {
+    "en": "Computer Use (Cua Driver)",
+    "zh": "电脑操作（Cua Driver）"
+  },
+  "Let the model operate the desktop with the bundled Cua Driver runtime; needs desktop permissions for the app that launches dsh.": {
+    "en": "Let the model operate the desktop with the bundled Cua Driver runtime; needs desktop permissions for the app that launches dsh.",
+    "zh": "让模型使用内置的 Cua Driver 运行时操作桌面；需要为启动 dsh 的应用授予桌面权限。"
+  },
+  "Machine translation of expanded reasoning; source text is sent to the selected service": {
+    "en": "Machine translation of expanded reasoning; source text is sent to the selected service",
+    "zh": "机器翻译展开的思考内容；原文会发送给所选服务"
+  },
+  "NodeJS Inspector": {
+    "en": "NodeJS Inspector",
+    "zh": "NodeJS 诊断"
+  },
+  "Press Ctrl/Cmd+Shift+. to open Chrome DevTools in the bottom panel for development and debugging.": {
+    "en": "Press Ctrl/Cmd+Shift+. to open Chrome DevTools in the bottom panel for development and debugging.",
+    "zh": "按 Ctrl/Cmd+Shift+. 在底部面板打开 Chrome DevTools 进行开发调试"
+  },
+  "Developer Tools": {
+    "en": "Developer Tools",
+    "zh": "开发者工具"
+  },
+  "Inspect and debug raw session data, grouped chat messages, and the NodeJS backend.": {
+    "en": "Inspect and debug raw session data, grouped chat messages, and the NodeJS backend.",
+    "zh": "查看调试会话原始数据、聊天消息分组数据，以及调试 NodeJS 后端"
+  },
+  "Custom plugin markets": {
+    "en": "Custom plugin markets",
+    "zh": "自定义插件市场"
+  },
+  "Adds a Discover tab to Plugins for browsing and installing bundles from plugin market indexes you add": {
+    "en": "Adds a Discover tab to Plugins for browsing and installing bundles from plugin market indexes you add",
+    "zh": "在插件页添加「发现」标签页，从你添加的插件市场索引浏览和安装插件。"
+  },
+  "Ralph loops": {
+    "en": "Ralph loops",
+    "zh": "Ralph 循环"
+  },
+  "Run explicitly requested repeated work with fresh agents.": {
+    "en": "Run explicitly requested repeated work with fresh agents.",
+    "zh": "使用新智能体执行用户明确要求的循环工作。"
+  },
+  "Session Log": {
+    "en": "Session Log",
+    "zh": "会话数据诊断"
+  },
+  "Enable analysis of the current session's raw data and grouped chat messages in the session sidebar.": {
+    "en": "Enable analysis of the current session's raw data and grouped chat messages in the session sidebar.",
+    "zh": "在会话侧边栏启用当前会话的原始数据和聊天分组数据分析功能"
+  },
+  "Session search": {
+    "en": "Session search",
+    "zh": "会话搜索"
+  },
+  "Give Agents tools to search and read earlier sessions from the current workspace.": {
+    "en": "Give Agents tools to search and read earlier sessions from the current workspace.",
+    "zh": "为智能体提供搜索和读取当前工作区历史会话的工具。"
+  },
+  "Conversation-following titles": {
+    "en": "Conversation-following titles",
+    "zh": "随对话更新的标题"
+  },
+  "Refresh session titles as new human prompts arrive.": {
+    "en": "Refresh session titles as new human prompts arrive.",
+    "zh": "在收到新的用户提示时更新会话标题。"
+  },
+  "DSH": {
+    "en": "DSH",
+    "zh": "DSH"
+  },
+  "Provide the official powered-by-DSH badge skill.": {
+    "en": "Provide the official powered-by-DSH badge skill.",
+    "zh": "提供官方 powered-by-DSH 徽章技能。"
+  },
+  "Speech recognition": {
+    "en": "Speech recognition",
+    "zh": "语音识别"
+  },
+  "Manage speech transcription and select a recognition service.": {
+    "en": "Manage speech transcription and select a recognition service.",
+    "zh": "管理语音转写服务，并选择识别服务。"
+  },
+  "Local SenseVoice recognition": {
+    "en": "Local SenseVoice recognition",
+    "zh": "SenseVoice 本地识别"
+  },
+  "Transcribe recordings into text locally with SenseVoice.": {
+    "en": "Transcribe recordings into text locally with SenseVoice.",
+    "zh": "使用本机 SenseVoice 将录音转写为文字。"
+  },
+  "Persistent terminals": {
+    "en": "Persistent terminals",
+    "zh": "持久终端"
+  },
+  "Keep shell processes alive across tool calls.": {
+    "en": "Keep shell processes alive across tool calls.",
+    "zh": "让 shell 进程在多次工具调用之间保持运行。"
+  },
+  "Team Tools": {
+    "en": "Team Tools",
+    "zh": "团队工具"
+  },
+  "Give agents tools to coordinate members, exchange messages, and manage shared tasks.": {
+    "en": "Give agents tools to coordinate members, exchange messages, and manage shared tasks.",
+    "zh": "为智能体提供成员协调、消息通信和共享任务管理工具。"
+  },
+  "tool-ralph": {
+    "en": "tool-ralph",
+    "zh": "Ralph 迭代工具"
+  },
+  "Git Worktrees": {
+    "en": "Git Worktrees",
+    "zh": "Git 工作树"
+  },
+  "Let the agent create a new Git branch and worktree, then continue there.": {
+    "en": "Let the agent create a new Git branch and worktree, then continue there.",
+    "zh": "让智能体创建新的 Git 分支与工作树，并在其中继续工作。"
+  },
+  "Voice input": {
+    "en": "Voice input",
+    "zh": "语音输入"
+  },
+  "Transcribe recordings locally with SenseVoice; first use requires installing dependencies": {
+    "en": "Transcribe recordings locally with SenseVoice; first use requires installing dependencies",
+    "zh": "在本机使用 SenseVoice 转写录音，首次使用需安装依赖。"
+  },
+  "cordis-client-runner": {
+    "en": "cordis-client-runner",
+    "zh": "动态插件浏览器运行器"
+  },
+  "cordis-host-runner": {
+    "en": "cordis-host-runner",
+    "zh": "动态插件服务端运行器"
+  },
+  "tool-cordis": {
+    "en": "tool-cordis",
+    "zh": "插件 API 查询工具"
+  },
+  "tool-cordis/host": {
+    "en": "tool-cordis/host",
+    "zh": "插件 API 检查服务"
+  },
+  "ui-cordis": {
+    "en": "ui-cordis",
+    "zh": "动态插件运行卡片"
+  },
+  "command-feedback": {
+    "en": "command-feedback",
+    "zh": "会话反馈命令"
+  },
+  "message-feedback": {
+    "en": "message-feedback",
+    "zh": "消息反馈记录"
+  },
+  "fs-observation-policy": {
+    "en": "fs-observation-policy",
+    "zh": "文件编辑保护"
+  },
+  "fs-sandbox": {
+    "en": "fs-sandbox",
+    "zh": "文件沙箱访问"
+  },
+  "tool-fs": {
+    "en": "tool-fs",
+    "zh": "文件读写工具"
+  },
+  "tool-fs-search": {
+    "en": "tool-fs-search",
+    "zh": "文件搜索工具"
+  },
+  "command-goal": {
+    "en": "command-goal",
+    "zh": "目标管理命令"
+  },
+  "goal": {
+    "en": "goal",
+    "zh": "会话目标服务"
+  },
+  "goal-round-driver": {
+    "en": "goal-round-driver",
+    "zh": "目标自动续行"
+  },
+  "tool-goal": {
+    "en": "tool-goal",
+    "zh": "目标管理工具"
+  },
+  "repeat-tool-reminder": {
+    "en": "repeat-tool-reminder",
+    "zh": "重复工具调用提醒"
+  },
+  "tool-call-timeout-policy": {
+    "en": "tool-call-timeout-policy",
+    "zh": "工具调用超时控制"
+  },
+  "directory-picker-auto": {
+    "en": "directory-picker-auto",
+    "zh": "目录选择方式适配"
+  },
+  "directory-picker-browse": {
+    "en": "directory-picker-browse",
+    "zh": "应用内目录浏览服务"
+  },
+  "directory-picker-native": {
+    "en": "directory-picker-native",
+    "zh": "系统目录选择服务"
+  },
+  "open-in-app": {
+    "en": "open-in-app",
+    "zh": "外部应用打开服务"
+  },
+  "plugin-inventory": {
+    "en": "plugin-inventory",
+    "zh": "插件清单服务"
+  },
+  "product-telemetry-otel": {
+    "en": "product-telemetry-otel",
+    "zh": "产品使用事件上报"
+  },
+  "webserver": {
+    "en": "webserver",
+    "zh": "Web 服务"
+  },
+  "commands": {
+    "en": "commands",
+    "zh": "用户命令服务"
+  },
+  "permission-presets": {
+    "en": "permission-presets",
+    "zh": "权限模式服务"
+  },
+  "tool-ask-user": {
+    "en": "tool-ask-user",
+    "zh": "向用户提问工具"
+  },
+  "user-approval": {
+    "en": "user-approval",
+    "zh": "用户审批服务"
+  },
+  "user-questions": {
+    "en": "user-questions",
+    "zh": "用户提问服务"
+  },
+  "jobs-local": {
+    "en": "jobs-local",
+    "zh": "本地后台任务"
+  },
+  "tool-jobs": {
+    "en": "tool-jobs",
+    "zh": "后台任务工具"
+  },
+  "deepseek-llm-api-extensions": {
+    "en": "deepseek-llm-api-extensions",
+    "zh": "DeepSeek API 扩展"
+  },
+  "llm": {
+    "en": "llm",
+    "zh": "模型调用服务"
+  },
+  "llm-deepseek-account": {
+    "en": "llm-deepseek-account",
+    "zh": "DeepSeek 账号模型接入"
+  },
+  "llm-deepseek-api-key": {
+    "en": "llm-deepseek-api-key",
+    "zh": "DeepSeek API 密钥接入"
+  },
+  "llm-pi-ai": {
+    "en": "llm-pi-ai",
+    "zh": "pi-ai 模型适配"
+  },
+  "llm-retry": {
+    "en": "llm-retry",
+    "zh": "模型请求重试"
+  },
+  "plugin-package-inventory-deepseek": {
+    "en": "plugin-package-inventory-deepseek",
+    "zh": "DeepSeek 插件清单上报"
+  },
+  "token-meter": {
+    "en": "token-meter",
+    "zh": "Token 计量"
+  },
+  "mcp-resources": {
+    "en": "mcp-resources",
+    "zh": "MCP 资源访问"
+  },
+  "plan-mode": {
+    "en": "plan-mode",
+    "zh": "计划模式"
+  },
+  "agent-preset": {
+    "en": "agent-preset",
+    "zh": "Agent 预设定义"
+  },
+  "Composer Decoration": {
+    "en": "Composer Decoration"
+  },
+  "Displays a blue circle below the message composer.": {
+    "en": "Displays a blue circle below the message composer."
+  },
+  "Demo MCP Connection": {
+    "en": "Demo MCP Connection"
+  },
+  "Connects a remote MCP server to make its tools available to the agent.": {
+    "en": "Connects a remote MCP server to make its tools available to the agent."
+  },
+  "agent-preset-registry": {
+    "en": "agent-preset-registry",
+    "zh": "Agent 预设管理"
+  },
+  "persona": {
+    "en": "persona",
+    "zh": "智能体角色设定"
+  },
+  "ptc-runtime-node": {
+    "en": "ptc-runtime-node",
+    "zh": "Node PTC 运行时"
+  },
+  "sandbox-local": {
+    "en": "sandbox-local",
+    "zh": "本地进程沙箱"
+  },
+  "sandbox-policy": {
+    "en": "sandbox-policy",
+    "zh": "沙箱权限策略"
+  },
+  "Task scheduling": {
+    "en": "Task scheduling",
+    "zh": "任务调度"
+  },
+  "Stores automation tasks, runs each in its original session when it is due, and gives the agent tools to manage them.": {
+    "en": "Stores automation tasks, runs each in its original session when it is due, and gives the agent tools to manage them.",
+    "zh": "保存自动化任务，到点后在原会话中执行，并为智能体提供管理任务的工具。"
+  },
+  "session-checkpoint-policy": {
+    "en": "session-checkpoint-policy",
+    "zh": "会话检查点"
+  },
+  "session-log-deepseek": {
+    "en": "session-log-deepseek",
+    "zh": "DeepSeek 会话日志上传"
+  },
+  "session-persistence-jsonl": {
+    "en": "session-persistence-jsonl",
+    "zh": "会话日志持久保存"
+  },
+  "session-projection": {
+    "en": "session-projection",
+    "zh": "会话状态汇总"
+  },
+  "session-projection-cache": {
+    "en": "session-projection-cache",
+    "zh": "会话状态缓存"
+  },
+  "session-stats": {
+    "en": "session-stats",
+    "zh": "会话统计"
+  },
+  "session-telemetry-otel": {
+    "en": "session-telemetry-otel",
+    "zh": "反馈会话日志上传"
+  },
+  "session-title": {
+    "en": "session-title",
+    "zh": "会话标题服务"
+  },
+  "session-title-first-prompt-llm": {
+    "en": "session-title-first-prompt-llm",
+    "zh": "首条消息生成标题"
+  },
+  "session-turn-outline": {
+    "en": "session-turn-outline",
+    "zh": "会话轮次目录"
+  },
+  "session-log-export": {
+    "en": "session-log-export",
+    "zh": "会话日志导出"
+  },
+  "session-query-sqlite": {
+    "en": "session-query-sqlite",
+    "zh": "会话查询与搜索"
+  },
+  "settings": {
+    "en": "settings",
+    "zh": "设置服务"
+  },
+  "bash-sandbox": {
+    "en": "bash-sandbox",
+    "zh": "Bash 沙箱执行"
+  },
+  "pwsh-sandbox": {
+    "en": "pwsh-sandbox",
+    "zh": "PowerShell 沙箱执行"
+  },
+  "shell-env": {
+    "en": "shell-env",
+    "zh": "命令环境变量"
+  },
+  "tool-bash": {
+    "en": "tool-bash",
+    "zh": "Bash 命令工具"
+  },
+  "tool-bash-persistent": {
+    "en": "tool-bash-persistent",
+    "zh": "持久 Bash 工具"
+  },
+  "tool-pwsh": {
+    "en": "tool-pwsh",
+    "zh": "PowerShell 命令工具"
+  },
+  "tool-pwsh-persistent": {
+    "en": "tool-pwsh-persistent",
+    "zh": "持久 PowerShell 工具"
+  },
+  "skill": {
+    "en": "skill",
+    "zh": "技能注册服务"
+  },
+  "skill-filesystem": {
+    "en": "skill-filesystem",
+    "zh": "本地技能加载"
+  },
+  "tool-skill": {
+    "en": "tool-skill",
+    "zh": "技能加载工具"
+  },
+  "spill-local": {
+    "en": "spill-local",
+    "zh": "本地长结果存储"
+  },
+  "spill-policy": {
+    "en": "spill-policy",
+    "zh": "工具结果长度控制"
+  },
+  "storage": {
+    "en": "storage",
+    "zh": "数据存储服务"
+  },
+  "storage-domain": {
+    "en": "storage-domain",
+    "zh": "结构化数据存储"
+  },
+  "storage-json": {
+    "en": "storage-json",
+    "zh": "JSON 文件存储"
+  },
+  "subagent": {
+    "en": "subagent",
+    "zh": "子智能体服务"
+  },
+  "Claude Code subagent": {
+    "en": "Claude Code subagent",
+    "zh": "Claude Code 子智能体"
+  },
+  "Delegate one task to Claude Code using its native authentication and settings.": {
+    "en": "Delegate one task to Claude Code using its native authentication and settings.",
+    "zh": "使用 Claude Code 原生认证和设置委派单个任务。"
+  },
+  "Codex subagent": {
+    "en": "Codex subagent",
+    "zh": "Codex 子智能体"
+  },
+  "Delegate one task to Codex using its native authentication and settings.": {
+    "en": "Delegate one task to Codex using its native authentication and settings.",
+    "zh": "使用 Codex 原生认证和设置委派单个任务。"
+  },
+  "subagent-fork-in-process": {
+    "en": "subagent-fork-in-process",
+    "zh": "继承上下文子智能体后端"
+  },
+  "subagent-spawn-in-process": {
+    "en": "subagent-spawn-in-process",
+    "zh": "新建子智能体后端"
+  },
+  "tool-subagent": {
+    "en": "tool-subagent",
+    "zh": "子智能体委派工具"
+  },
+  "tool-subagent/model-selection-settings": {
+    "en": "tool-subagent/model-selection-settings",
+    "zh": "子智能体模型选择设置"
+  },
+  "tool-subagent-control": {
+    "en": "tool-subagent-control",
+    "zh": "子智能体控制工具"
+  },
+  "tool-subagent-control/list-agents": {
+    "en": "tool-subagent-control/list-agents",
+    "zh": "子智能体列表工具"
+  },
+  "subprocess-local": {
+    "en": "subprocess-local",
+    "zh": "本地子进程"
+  },
+  "otel": {
+    "en": "otel",
+    "zh": "OpenTelemetry 上报服务"
+  },
+  "terminal": {
+    "en": "terminal",
+    "zh": "持久终端服务"
+  },
+  "terminal-bash": {
+    "en": "terminal-bash",
+    "zh": "持久 Shell 后端"
+  },
+  "tool-todo": {
+    "en": "tool-todo",
+    "zh": "待办清单工具"
+  },
+  "typert-loader": {
+    "en": "typert-loader",
+    "zh": "Typert 类型加载"
+  },
+  "typert-registry": {
+    "en": "typert-registry",
+    "zh": "Typert 类型注册表"
+  },
+  "tool-web": {
+    "en": "tool-web",
+    "zh": "网页搜索与读取工具"
+  },
+  "web": {
+    "en": "web",
+    "zh": "网页访问服务"
+  },
+  "web-deepseek-api": {
+    "en": "web-deepseek-api",
+    "zh": "DeepSeek 网页搜索与抓取 API"
+  },
+  "web-fetch-http": {
+    "en": "web-fetch-http",
+    "zh": "公开网页获取"
+  },
+  "web-search-deepseek": {
+    "en": "web-search-deepseek",
+    "zh": "DeepSeek 网页搜索"
+  },
+  "tool-workflow": {
+    "en": "tool-workflow",
+    "zh": "工作流工具"
+  },
+  "workflow-ptc": {
+    "en": "workflow-ptc",
+    "zh": "工作流执行引擎"
+  },
+  "workspace": {
+    "en": "workspace",
+    "zh": "工作区管理"
+  }
+}
