@@ -1,0 +1,55 @@
+{
+  "name": "dsh-locale-es-419",
+  "description": "DeepSeek Harness Latin American Spanish language pack (Español Latinoamérica - es-419)",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "engines": {
+      "dsh": ">=0.2.0-rc.1"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-locale"
+      ],
+      "platform": "web"
+    }
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "i18n",
+    "locale",
+    "es-419",
+    "spanish-latam",
+    "cordis"
+  ],
+  "peerDependencies": {
+    "@deepseek-ai/cordis": ">=4.0.0"
+  },
+  "license": "MIT",
+  "author": "Dreftian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dreftian/dsh-locale-es-419.git"
+  },
+  "files": [
+    "lib/**/*.js",
+    "locale/**/*.json",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "node tools/build-client.mjs"
+  }
+}

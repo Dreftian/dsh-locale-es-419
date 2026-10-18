@@ -1,0 +1,20 @@
+{
+  "apiKey": "Clave de API",
+  "apiKeyHint": "Se almacena fuera del archivo de configuración. Deje en blanco para conservar la clave actual.",
+  "apiKeySet": "Hay una clave configurada.",
+  "apiKeyUnset": "No hay ninguna clave configurada; solo las conversaciones que usan un modelo de DeepSeek Account pueden buscar, a través del punto de conexión predeterminado.",
+  "baseUrl": "Punto de conexión",
+  "baseUrlHint": "Deje en blanco para usar el valor predeterminado del proveedor.",
+  "description": "Configure el proveedor de búsqueda de DeepSeek.",
+  "invalidNumber": "Ingrese un número o deje en blanco para usar el valor predeterminado.",
+  "maxUses": "Máximo de búsquedas por solicitud",
+  "maxUsesHint": "Cuántas veces puede buscar una solicitud antes de tener que responder.",
+  "overridden": "Anulado",
+  "readOnly": "Esta implementación almacena la configuración como de solo lectura.",
+  "reset": "Restablecer el valor predeterminado",
+  "save": "Guardar",
+  "saveFailed": "La implementación no aceptó estos valores; se dejaron para que los corrija.",
+  "saving": "Guardando…",
+  "title": "Búsqueda web",
+  "unavailable": "Este complemento no está cargado, por lo que no se puede configurar en este momento."
+}

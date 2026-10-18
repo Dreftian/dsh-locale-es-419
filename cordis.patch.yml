@@ -1,0 +1,4 @@
+# dsh-locale-es-419: DeepSeek Harness bundle patch for Latin American Spanish
+- insert:
+    - id: locale-es-419
+      name: 'dsh-locale-es-419'

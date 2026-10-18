@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Cerrar",
+  "dialog.commandFailed": "No se pudo iniciar la exportación de la sesión.",
+  "dialog.errorTitle": "Falló la exportación de la sesión",
+  "dialog.preparingDescription": "Preparando un ZIP con esta sesión, sus subsesiones y archivos adjuntos.",
+  "dialog.preparingTitle": "Exportando sesión",
+  "dialog.successDescription": "El navegador está descargando el ZIP de la sesión.",
+  "dialog.successTitle": "Descarga de la sesión iniciada",
+  "header.more": "Más acciones",
+  "menu.download": "Descargar registro de sesión",
+  "menu.feedback": "Comentarios"
+}
